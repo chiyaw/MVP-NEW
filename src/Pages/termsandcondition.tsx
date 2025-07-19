@@ -38,7 +38,7 @@ const TermsandCondition = () => {
         <section className="mb-8">
           <h2 className="text-xl font-semibold mb-4">4. Data Privacy & Security</h2>
           <ul className="list-disc pl-5 space-y-2">
-            <li>We collect and process data in accordance with our <a href="/privacy-policy" className="text-blue-600 hover:underline">Privacy Policy</a>.</li>
+            <li>We collect and process data in accordance with our <a href="/privacy" className="text-blue-600 hover:underline">Privacy Policy</a>.</li>
             <li>By using Google Login, you authorize us to access certain Google account information as permitted by Google’s policies.</li>
             <li>We implement security measures, but we cannot guarantee absolute protection against breaches.</li>
           </ul>
